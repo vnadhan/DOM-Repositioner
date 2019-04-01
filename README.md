@@ -1,2 +1,2 @@
-JS-Code
+Repositon the DOM automatically
 =======
